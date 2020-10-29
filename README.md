@@ -4,6 +4,8 @@ Created on Thu Oct 22 12:47:06 2020
 
 Marie-Amelie Boucher, marie-amelie.boucher@usherbrooke.ca
 
+# For a Python package containing the same functions, please go to https://pypi.org/project/ensverif/ 
+
 This library contains the following functions:
 
 - CRPS
